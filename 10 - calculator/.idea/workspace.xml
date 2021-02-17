@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1a96ac7-837a-4dba-a1fc-aed055d674db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/proj10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.5 - incrementer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6 - image-slideshow/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6 - image-slideshow/.idea/6 - image-slideshow.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6 - image-slideshow/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6 - image-slideshow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6 - image-slideshow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6 - image-slideshow/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 - testimonial-viewer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 - testimonial-viewer/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 - testimonial-viewer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 - testimonial-viewer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 - testimonial-viewer/.idea/proj7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7 - testimonial-viewer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 - item-filter-list/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 - item-filter-list/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 - item-filter-list/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 - item-filter-list/.idea/proj8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 - item-filter-list/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8 - item-filter-list/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="proj10" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oSSFnrUcpzoOM4SoL0472E2LiK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1a96ac7-837a-4dba-a1fc-aed055d674db" name="Default Changelist" comment="" />
+      <created>1613278398012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613278398012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
