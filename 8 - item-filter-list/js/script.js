@@ -1,6 +1,4 @@
-// Work to get the filter buttons working
 (function(){
-    // refactor to get rid of DRY code
     const buttons = document.querySelectorAll('.magic')
     const storeItems = document.querySelectorAll('.store-item')
 
@@ -22,12 +20,10 @@
             })
         })
     })
-
 })();
 
 //wire up filter search box
 (function(){
-
     const searchBox = document.querySelector('#search-item')
     const storeItems = document.querySelectorAll('.store-item')
 
@@ -44,5 +40,4 @@
             }
         })
     })
-
 })();
